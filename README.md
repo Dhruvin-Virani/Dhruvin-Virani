@@ -6,12 +6,10 @@
 
 
 ## 🌐 Socials:
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvinvirani07@gmail.com)]
-<a href="https://twitter.com/dhruvinvirani8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvinvirani8" height="30" width="40" /></a>
-<a href="https://twitter.com/dhruvinvirani8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvinvirani8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruvin-virani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvin-virani" height="30" width="40" /></a>
+<a href="https://twitter.com/dhruvinvirani8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvinvirani8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvin virani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvin virani" height="30" width="40" /></a>
 </p>
 
